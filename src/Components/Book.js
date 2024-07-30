@@ -2,21 +2,18 @@ import React from "react";
 import Navbar from "./Navbar";
 import { FiArrowRight } from "react-icons/fi";
 
-import BookImage from "file:///Users/nimishs/Documents/todo-front-end/src/images/Hard%20Cover%20Book.svg";
-import AurhorImage from "file:///Users/nimishs/Documents/todo-front-end/src/images/image%204.svg";
-import Flag1 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Great%20Britain.svg";
-import Flag2 from "file:///Users/nimishs/Documents/todo-front-end/src/images/USA.svg";
-import Flag3 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Canada.svg";
+import BookImage from "../Assets/Hard Cover Book.svg";
+import AurhorImage from "../Assets/image 4.svg";
+import Flag1 from "../Assets/Great Britain.svg";
+import Flag2 from "../Assets/USA.svg";
+import Flag3 from "../Assets/Canada.svg";
 import Footer from "./Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { CCard } from "@coreui/react";
-import { CListGroup } from "@coreui/react";
-import { CListGroupItem } from "@coreui/react";
+
 import { CCardBody } from "@coreui/react";
 import { CCardTitle } from "@coreui/react";
-import { CCardSubtitle } from "@coreui/react";
 import { CCardText } from "@coreui/react";
-import { CCardLink } from "@coreui/react";
 import { CRow } from "@coreui/react";
 import { CCol } from "@coreui/react";
 import { CCardImage } from "@coreui/react";
